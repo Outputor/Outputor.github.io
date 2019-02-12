@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-11T12:25:42.198Z</updated>
+  <updated>2019-02-11T23:01:50.234Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好，hexo</title>
-    <link href="http://yoursite.com/2019/02/11/%E4%BD%A0%E5%A5%BD%EF%BC%8Chexo/"/>
-    <id>http://yoursite.com/2019/02/11/你好，hexo/</id>
-    <published>2019-02-11T05:29:24.000Z</published>
-    <updated>2019-02-11T12:25:42.198Z</updated>
+    <title>《精英日课》第二季 - 偶然中的必然</title>
+    <link href="http://yoursite.com/2018/12/22/%E3%80%8A%E7%B2%BE%E8%8B%B1%E6%97%A5%E8%AF%BE%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%20-%20%E5%81%B6%E7%84%B6%E4%B8%AD%E7%9A%84%E5%BF%85%E7%84%B6/"/>
+    <id>http://yoursite.com/2018/12/22/《精英日课》第二季 - 偶然中的必然/</id>
+    <published>2018-12-21T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.234Z</updated>
     
     <summary type="html">
     
@@ -29,21 +29,28 @@
       
         
         
-          &lt;p&gt;
+          &lt;p&gt;思考题：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;-
         
       
     
     </summary>
     
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="精英日课" scheme="http://yoursite.com/tags/%E7%B2%BE%E8%8B%B1%E6%97%A5%E8%AF%BE/"/>
+    
+      <category term="偶然中的必然" scheme="http://yoursite.com/tags/%E5%81%B6%E7%84%B6%E4%B8%AD%E7%9A%84%E5%BF%85%E7%84%B6/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/02/11/hello-world/"/>
-    <id>http://yoursite.com/2019/02/11/hello-world/</id>
-    <published>2019-02-11T05:16:51.886Z</published>
-    <updated>2019-02-11T05:16:51.887Z</updated>
+    <title>《精英日课》第二季 - 高手的心法</title>
+    <link href="http://yoursite.com/2018/12/14/%E3%80%8A%E7%B2%BE%E8%8B%B1%E6%97%A5%E8%AF%BE%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%20-%20%E9%AB%98%E6%89%8B%E7%9A%84%E5%BF%83%E6%B3%95/"/>
+    <id>http://yoursite.com/2018/12/14/《精英日课》第二季 - 高手的心法/</id>
+    <published>2018-12-13T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.124Z</updated>
     
     <summary type="html">
     
@@ -51,21 +58,252 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;&lt;strong&gt;客观题和主观题&lt;/strong&gt;&lt;br&gt;客观事实和主观观点是两个我们经常遇到的概念。为主观题争论是没有任何意义的。比如争论什么颜色好看。而有一些题呢有一些看起来是主观题，有一些人看起来是客观题比如堕胎问题。也就是一道题把人们分为主观派客观派。&lt;br&gt;客观派的
         
       
     
     </summary>
     
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="精英日课" scheme="http://yoursite.com/tags/%E7%B2%BE%E8%8B%B1%E6%97%A5%E8%AF%BE/"/>
+    
+      <category term="高手的心法" scheme="http://yoursite.com/tags/%E9%AB%98%E6%89%8B%E7%9A%84%E5%BF%83%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《原则》</title>
+    <link href="http://yoursite.com/2018/12/02/%E3%80%8A%E5%8E%9F%E5%88%99%E3%80%8B/"/>
+    <id>http://yoursite.com/2018/12/02/《原则》/</id>
+    <published>2018-12-01T16:00:00.000Z</published>
+    <updated>2019-02-11T23:16:26.285Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;《原则》一书是华尔街一家传奇对冲基金公司桥水公司创始人瑞·达里奥关于生活的工作的原则的总结。达里奥是一个依靠原则行事的人。生活和工作中的所有问题的处理都是依靠原则来做决定的。作者本人及它的公司所取得的巨大成就就是依靠这一套行之有效的原则达到的。&lt;br&gt;本书主要分为三部分,分
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="原则" scheme="http://yoursite.com/tags/%E5%8E%9F%E5%88%99/"/>
+    
+      <category term="达里奥" scheme="http://yoursite.com/tags/%E8%BE%BE%E9%87%8C%E5%A5%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何应对学习过程中的热度衰减效应</title>
+    <link href="http://yoursite.com/2018/11/08/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E5%BA%A6%E8%A1%B0%E5%87%8F%E6%95%88%E5%BA%94/"/>
+    <id>http://yoursite.com/2018/11/08/如何应对学习过程中的热度衰减效应/</id>
+    <published>2018-11-07T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.234Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt; 首先声明一下，原创文章，如有雷同，纯属巧合，不侵不删。&lt;/strong&gt;&lt;br&gt;   
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="学习成长" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E6%88%90%E9%95%BF/"/>
+    
+      <category term="三分钟热度" scheme="http://yoursite.com/tags/%E4%B8%89%E5%88%86%E9%92%9F%E7%83%AD%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>既要仰望监察，又要脚踏实地</title>
+    <link href="http://yoursite.com/2018/10/07/%E6%97%A2%E8%A6%81%E4%BB%B0%E6%9C%9B%E6%98%9F%E7%A9%BA%EF%BC%8C%E5%8F%88%E8%A6%81%E8%84%9A%E8%B8%8F%E5%AE%9E%E5%9C%B0%E2%80%94%E2%80%942018%E5%B9%B4%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2018/10/07/既要仰望星空，又要脚踏实地——2018年前三季度总结/</id>
+    <published>2018-10-06T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.311Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;写在最前&quot;&gt;&lt;a href=&quot;#写在最前&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="回顾" scheme="http://yoursite.com/tags/%E5%9B%9E%E9%A1%BE/"/>
+    
+      <category term="时间管理" scheme="http://yoursite.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>马儿跑，马儿要吃草</title>
+    <link href="http://yoursite.com/2018/10/05/%E9%A9%AC%E5%84%BF%E8%B7%91%EF%BC%8C%E9%A9%AC%E5%84%BF%E8%A6%81%E5%90%83%E8%8D%89/"/>
+    <id>http://yoursite.com/2018/10/05/马儿跑，马儿要吃草/</id>
+    <published>2018-10-04T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.234Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;时间过得飞快，眨眼间一年已经过去了三分之一。当年记录下的年计划今天拿出来一看已经忍直视了。今天是五一，抽出时间，拿着小鞭子，抽一抽自己。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;这几个月的目标与期望是什么？&lt;br&gt;目标：&lt;br&gt;&lt;strong&gt;看书&lt;/strong&gt;：目标是一周一本书。&lt;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="回顾" scheme="http://yoursite.com/tags/%E5%9B%9E%E9%A1%BE/"/>
+    
+      <category term="时间管理" scheme="http://yoursite.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Excel实战操作 - 成绩单</title>
+    <link href="http://yoursite.com/2018/10/04/Excel%E5%AE%9E%E6%88%98%E6%93%8D%E4%BD%9C%20-%20%E6%88%90%E7%BB%A9%E5%8D%95/"/>
+    <id>http://yoursite.com/2018/10/04/Excel实战操作 - 成绩单/</id>
+    <published>2018-10-03T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.049Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;[Excel实战操作 - 成绩单]&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技能Get" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BDGet/"/>
+    
+    
+      <category term="Excel" scheme="http://yoursite.com/tags/Excel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>拿什么拯救你，我的头发</title>
+    <link href="http://yoursite.com/2018/09/02/%E6%8B%BF%E4%BB%80%E4%B9%88%E6%8B%AF%E6%95%91%E4%BD%A0%EF%BC%8C%E6%88%91%E7%9A%84%E5%A4%B4%E5%8F%91/"/>
+    <id>http://yoursite.com/2018/09/02/拿什么拯救你，我的头发/</id>
+    <published>2018-09-01T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.166Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;前段时间去跟着老师去开会，住的一个超帅的大House，里面有很大的镜子，然后。。。在开会第一天出门的时候，当我无意间把头发撩起来看看自己帅气的脸庞的时候。。。&lt;br&gt;我突然慌了，比梅西还要慌。&lt;br&gt;我靠，我的头发呢。我记得我的头发前面是平的，怎么现在有了美人尖了。忽然间就
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="脱发" scheme="http://yoursite.com/tags/%E8%84%B1%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于耐心以及其它性格特征</title>
+    <link href="http://yoursite.com/2018/07/17/%E5%85%B3%E4%BA%8E%E8%80%90%E5%BF%83%E4%BB%A5%E5%8F%8A%E5%85%B6%E5%AE%83%E6%80%A7%E6%A0%BC%E7%89%B9%E5%BE%81/"/>
+    <id>http://yoursite.com/2018/07/17/关于耐心以及其它性格特征/</id>
+    <published>2018-07-16T16:00:00.000Z</published>
+    <updated>2019-02-11T23:16:26.285Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;昨天一个朋友打电话告诉我说他把做事情不成功的原因归结为没有耐心，他关于没有耐心的描述是这样的&lt;br&gt;&lt;em&gt;一直想往前面冲，想快点把一本书学完，就好像已经掌握了这本书。&lt;/em&gt;&lt;br&gt;&lt;strong&gt;我并不把它归结为没有耐心&lt;/strong&gt;，首先是因为有没有耐心这个是不
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="学习成长" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E6%88%90%E9%95%BF/"/>
+    
+      <category term="耐心" scheme="http://yoursite.com/tags/%E8%80%90%E5%BF%83/"/>
+    
+      <category term="性格特征" scheme="http://yoursite.com/tags/%E6%80%A7%E6%A0%BC%E7%89%B9%E5%BE%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从算卦先生到三思而行</title>
+    <link href="http://yoursite.com/2018/07/14/%E4%BB%8E%E7%AE%97%E5%8D%A6%E5%85%88%E7%94%9F%E5%88%B0%E4%B8%89%E6%80%9D%E8%80%8C%E8%A1%8C/"/>
+    <id>http://yoursite.com/2018/07/14/从算卦先生到三思而行/</id>
+    <published>2018-07-13T16:00:00.000Z</published>
+    <updated>2019-02-11T23:16:26.286Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;去年找了一个算命先生给我算了一下运势，说我会找两个工作，一个不大满意，另一个会比较满意。然后，真的被说中了。去年前后一共做了两份工作，后一份明显比前一份要好一些。&lt;br&gt;请教别人这个事情靠谱不靠谱，是真的准还是运气比较好，众说不一。有些时候算命先生说话非常的含糊，从来没有说
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="反思" scheme="http://yoursite.com/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+      <category term="个人成长" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF/"/>
     
   </entry>
   
   <entry>
     <title>从柳比歇夫到时光似金</title>
-    <link href="http://yoursite.com/2018/05/12/%E4%BB%8E%E6%9F%B3%E6%AF%94%E6%AD%87%E5%A4%AB%E5%88%B0%E6%97%B6%E5%85%89%E4%BC%BC%E9%87%91/"/>
-    <id>http://yoursite.com/2018/05/12/从柳比歇夫到时光似金/</id>
-    <published>2018-05-11T16:00:00.000Z</published>
-    <updated>2019-02-11T12:28:59.559Z</updated>
+    <link href="http://yoursite.com/2018/06/09/%E4%BB%8E%E6%9F%B3%E6%AF%94%E6%AD%87%E5%A4%AB%E5%88%B0%E6%97%B6%E5%85%89%E4%BC%BC%E9%87%91/"/>
+    <id>http://yoursite.com/2018/06/09/从柳比歇夫到时光似金/</id>
+    <published>2018-06-08T16:00:00.000Z</published>
+    <updated>2019-02-11T23:59:55.572Z</updated>
     
     <summary type="html">
     
@@ -82,9 +320,180 @@
       <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+      <category term="个人管理" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86/"/>
     
       <category term="时间管理" scheme="http://yoursite.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="时光似金" scheme="http://yoursite.com/tags/%E6%97%B6%E5%85%89%E4%BC%BC%E9%87%91/"/>
+    
+      <category term="人生大数据" scheme="http://yoursite.com/tags/%E4%BA%BA%E7%94%9F%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《影响力》如何影响别人</title>
+    <link href="http://yoursite.com/2018/05/05/%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%88%AB%E4%BA%BA/"/>
+    <id>http://yoursite.com/2018/05/05/影响力如何影响别人/</id>
+    <published>2018-05-04T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:43.248Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;《影响力》作者罗伯特 · B ·
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="影响力" scheme="http://yoursite.com/tags/%E5%BD%B1%E5%93%8D%E5%8A%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>好好学习值得一看</title>
+    <link href="http://yoursite.com/2018/03/29/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B/"/>
+    <id>http://yoursite.com/2018/03/29/好好学习值得一看/</id>
+    <published>2018-03-28T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.049Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在自序中，作者提到了知识的三个作用，解释问题，解决问题，预测问题&lt;br&gt;然后又提到了是否把外部信息内化成自己的知识的一个评判标准就是是否有把学到的新知识运用起来，有没有为此做出改变。举个最简单的例子，如果你通过看书或者看视频了解到也早上吃早餐的重要性，却还是每天不吃早餐，那
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="学习成长" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0%E6%88%90%E9%95%BF/"/>
+    
+      <category term="个人管理" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>鸡汤不鸡汤</title>
+    <link href="http://yoursite.com/2018/03/28/%E9%B8%A1%E6%B1%A4%E4%B8%8D%E9%B8%A1%E6%B1%A4/"/>
+    <id>http://yoursite.com/2018/03/28/鸡汤不鸡汤/</id>
+    <published>2018-03-27T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.234Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;《解忧杂货店》思维导图&lt;br&gt;&lt;img src=&quot;http://opa3m1qai.bkt.clouddn.com/blog/20171217/111927224.png?imageslim&quot; alt=&quot;解忧杂货店思维导图&quot;&gt;&lt;/p&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="解忧杂货店" scheme="http://yoursite.com/tags/%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E5%BA%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>入坑Markdown</title>
+    <link href="http://yoursite.com/2018/01/16/%E5%85%A5%E5%9D%91Markdown/"/>
+    <id>http://yoursite.com/2018/01/16/入坑Markdown/</id>
+    <published>2018-01-15T16:00:00.000Z</published>
+    <updated>2019-02-11T23:16:26.285Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;http://opa3m1qai.bkt.clouddn.com/blog/20171117/085327905.png?imageslim&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="markeditor" scheme="http://yoursite.com/tags/markeditor/"/>
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+      <category term="写作利器" scheme="http://yoursite.com/tags/%E5%86%99%E4%BD%9C%E5%88%A9%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《茶花女》的理性思考</title>
+    <link href="http://yoursite.com/2017/12/11/%E8%8C%B6%E8%8A%B1%E5%A5%B3%E7%9A%84%E7%90%86%E6%80%A7%E6%80%9D%E8%80%83/"/>
+    <id>http://yoursite.com/2017/12/11/茶花女的理性思考/</id>
+    <published>2017-12-10T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.185Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是一个关于伟大爱情的故事，玛格丽特·戈蒂埃小姐是生活在法国巴黎一个受人供养的女人，有一个并没有多少钱的叫阿尔芒的男人无可救药的爱上了她，并且为此默默暗恋了一年多的时间，见面之后玛格丽特被这个少年所吸引，两个人随即坠入爱河，每天晚上幽会，然后把恋情公之于众，两个人到巴黎乡下
+        
+      
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="茶花女" scheme="http://yoursite.com/tags/%E8%8C%B6%E8%8A%B1%E5%A5%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>提高效率软件</title>
+    <link href="http://yoursite.com/2017/12/05/%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6/"/>
+    <id>http://yoursite.com/2017/12/05/提高效率软件/</id>
+    <published>2017-12-04T16:00:00.000Z</published>
+    <updated>2019-02-11T23:01:50.166Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;写在最前&lt;/strong&gt;&lt;br&gt;作为一个爱折腾软件的boy，经常在某种奇葩需求的驱使下，去寻找某些奇葩的软件，也对生产力这个东西有点了小小的想法。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;自己用着舒服的就是最好的&lt;/strong&gt;，不要轻易听信各种大神的
+        
+      
+    
+    </summary>
+    
+      <category term="技能Get" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BDGet/"/>
+    
+    
+      <category term="电脑软件" scheme="http://yoursite.com/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="效率" scheme="http://yoursite.com/tags/%E6%95%88%E7%8E%87/"/>
     
   </entry>
   
