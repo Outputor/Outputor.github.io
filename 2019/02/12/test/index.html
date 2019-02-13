@@ -81,17 +81,17 @@
 
 
 
-<meta name="description" content="// 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&apos;echarts9751&apos;));         // 指定图表的配置项和数据         var option = {     tooltip : {         trigger: &apos;axis&apos;,">
+<meta name="description" content="// 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&apos;echarts3137&apos;));         // 指定图表的配置项和数据         var option = {             title: {                 text">
 <meta property="og:type" content="article">
 <meta property="og:title" content="test">
 <meta property="og:url" content="http://yoursite.com/2019/02/12/test/index.html">
 <meta property="og:site_name" content="Outputor">
-<meta property="og:description" content="// 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&apos;echarts9751&apos;));         // 指定图表的配置项和数据         var option = {     tooltip : {         trigger: &apos;axis&apos;,">
+<meta property="og:description" content="// 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&apos;echarts3137&apos;));         // 指定图表的配置项和数据         var option = {             title: {                 text">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-02-12T03:32:18.327Z">
+<meta property="og:updated_time" content="2019-02-13T01:01:54.077Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="test">
-<meta name="twitter:description" content="// 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&apos;echarts9751&apos;));         // 指定图表的配置项和数据         var option = {     tooltip : {         trigger: &apos;axis&apos;,">
+<meta name="twitter:description" content="// 基于准备好的dom，初始化echarts实例         var myChart = echarts.init(document.getElementById(&apos;echarts3137&apos;));         // 指定图表的配置项和数据         var option = {             title: {                 text">
 
 
 
@@ -329,7 +329,7 @@
                   <span class="post-meta-item-text">字数统计&#58;</span>
                 
                 <span title="字数统计">
-                  379
+                  692
                 </span>
               
 
@@ -345,7 +345,7 @@
                   <span class="post-meta-item-text">阅读时长 &asymp;</span>
                 
                 <span title="阅读时长">
-                  1
+                  3
                 </span>
               
             </div>
@@ -366,147 +366,157 @@
       
 
       
-        <div id="echarts9751" style="width: 81%;height: 400px;margin: 0 auto"></div>
+        <div id="echarts3137" style="width: 81%;height: 400px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/3.8.0/echarts.common.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts9751'));
+        var myChart = echarts.init(document.getElementById('echarts3137'));
         // 指定图表的配置项和数据
         var option = {
-    tooltip : {
-        trigger: 'axis',
-        axisPointer : {            // 坐标轴指示器，坐标轴触发有效
-            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
-        }
-    },
-    legend: {
-        data:['利润', '支出', '收入']
-    },
-    grid: {
-        left: '3%',
-        right: '4%',
-        bottom: '3%',
-        containLabel: true
-    },
-    xAxis : [
-        {
-            type : 'value'
+            title: {
+                text: '2018每日睡眠时间'
+            },
+            tooltip: {},
+            legend: {
+                data:['每日睡眠']
+            },
+            xAxis: {
+                data: ["衬衫","羊毛衫","雪纺衫","裤子","高跟鞋","袜子"]
+            },
+            yAxis: {},
+             dataZoom: [
+        {   // 这个dataZoom组件，默认控制x轴。
+            type: 'slider', // 这个 dataZoom 组件是 slider 型 dataZoom 组件
+            start: 10,      // 左边在 10% 的位置。
+            end: 60         // 右边在 60% 的位置。
+        },
+        {   // 这个dataZoom组件，也控制x轴。
+            type: 'inside', // 这个 dataZoom 组件是 inside 型 dataZoom 组件
+            start: 10,      // 左边在 10% 的位置。
+            end: 60         // 右边在 60% 的位置。
         }
     ],
-    yAxis : [
-        {
-            type : 'category',
-            axisTick : {show: false},
-            data : ['周一','周二','周三','周四','周五','周六','周日']
-        }
-    ],
-    series : [
-        {
-            name:'利润',
-            type:'bar',
-            itemStyle : {
-                normal: {
-                    label: {show: true, position: 'inside'}
-                }
-            },
-            data:[200, 170, 240, 244, 200, 220, 210]
-        },
-        {
-            name:'收入',
-            type:'bar',
-            stack: '总量',
-            itemStyle: {
-                normal: {
-                    label : {show: true}
-                }
-            },
-            data:[320, 302, 341, 374, 390, 450, 420]
-        },
-        {
-            name:'支出',
-            type:'bar',
-            stack: '总量',
-            itemStyle: {normal: {
-                label : {show: true, position: 'left'}
-            }},
-            data:[-120, -132, -101, -134, -190, -230, -210]
-        }
-    ]
-};
+    
+            series: [
+            {
+                name: '销量',
+                type: 'bar',
+                // 实现平均值
+                markLine:
+                {
+                data: [
+                    {type: 'average', name: '平均值'}
+                ]
+                },
+                data: [5, 20, 36, 10, 10, 20]
+            }
+            ]
+}
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-<p>卤味旧车 旧</p>
-<div id="echarts6906" style="width: 85%;height: 400px;margin: 0 auto"></div>
+<p>//2018睡眠时间饼状图</p>
+<div id="echarts5585" style="width: 80%;height: 330px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/3.8.0/echarts.common.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts6906'));
+        var myChart = echarts.init(document.getElementById('echarts5585'));
         // 指定图表的配置项和数据
         var option = {
-    tooltip : {
-        trigger: 'axis',
-        axisPointer : {            // 坐标轴指示器，坐标轴触发有效
-            type : 'shadow'        // 默认为直线，可选为：'line' | 'shadow'
-        }
-    },
-    legend: {
-        data:['利润', '支出', '收入']
-    },
-    grid: {
-        left: '3%',
-        right: '4%',
-        bottom: '3%',
-        containLabel: true
-    },
-    xAxis : [
-        {
-            type : 'value'
-        }
-    ],
-    yAxis : [
-        {
-            type : 'category',
-            axisTick : {show: false},
-            data : ['周一','周二','周三','周四','周五','周六','周日']
-        }
-    ],
-    series : [
-        {
-            name:'利润',
-            type:'bar',
-            itemStyle : {
-                normal: {
-                    label: {show: true, position: 'inside'}
-                }
+    //标题
+      title: {
+                text: '2018总时间',
+                left: '40%'
             },
-            data:[200, 170, 240, 244, 200, 220, 210]
-        },
-        {
-            name:'收入',
-            type:'bar',
-            stack: '总量',
-            itemStyle: {
-                normal: {
-                    label : {show: true}
-                }
+    //鼠标点上去显示项
+     tooltip: 
+            {
+            //trigger: 'item',
+            formatter: "{a} <br/>{b}: {c} ({d}%)"
             },
-            data:[320, 302, 341, 374, 390, 450, 420]
-        },
+    //图例,调节位置以及上下边距
+             legend: {
+        orient: 'vertical',
+        x: 'left',
+        top: 'middle',
+        /* padding:[
+           30,
+           10,
+           5,
+           10,
+        ],*/
+        data:['睡眠时间','工作事业','家庭生活','交通时间','社交时间','身体健康','休闲娱乐','学习成长']
+    },
+    //图表数据
+series : [
         {
-            name:'支出',
-            type:'bar',
-            stack: '总量',
-            itemStyle: {normal: {
-                label : {show: true, position: 'left'}
-            }},
-            data:[-120, -132, -101, -134, -190, -230, -210]
+           
+            name: '类别',
+            type: 'pie',
+            // roseType: 'angle',
+            radius: '55%',
+            center: ['60%','50%'],
+            data:[
+                //"睡眠时间", "工作事业", "家庭生活", "交通时间", "社交时间", "身体健康","休闲娱乐","学习成长"
+                //2501.92, 2000.72 , 2258.99 , 382.42 , 209.35 , 117.92,494.45 ,794.49
+                {value:2501.92, name:'睡眠时间'},
+                {value:2000.72, name:'工作事业'},
+                {value:2258.99, name:'家庭生活'},
+                {value:382.42, name:'交通时间'},
+                {value:209.35, name:'社交时间'},
+                {value:117.92, name:'身体健康'},
+                {value:494.45, name:'休闲娱乐'},
+                {value:794.49, name:'学习成长'}
+            ]
+           
         }
-    ]
-};
+    ]  
+}
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
+<div id="echarts76" style="width: 81%;height: 400px;margin: 0 auto"></div>
+<script src="https://cdn.bootcss.com/echarts/3.8.0/echarts.common.min.js"></script>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('echarts76'));
+        // 指定图表的配置项和数据
+        var option = {
+    xAxis: {
+        type: 'value'
+    },
+    yAxis: {
+        type: 'value'
+    },
+    dataZoom: [
+        {   // 这个dataZoom组件，默认控制x轴。
+            type: 'slider', // 这个 dataZoom 组件是 slider 型 dataZoom 组件
+            start: 10,      // 左边在 10% 的位置。
+            end: 60         // 右边在 60% 的位置。
+        },
+        {   // 这个dataZoom组件，也控制x轴。
+            type: 'inside', // 这个 dataZoom 组件是 inside 型 dataZoom 组件
+            start: 10,      // 左边在 10% 的位置。
+            end: 60         // 右边在 60% 的位置。
+        }
+    ],
+    series: [
+        {
+            type: 'scatter', // 这是个『散点图』
+            itemStyle: {
+                opacity: 0.8
+            },
+            symbolSize: function (val) {
+                return val[2] * 40;
+            },
+            data: [["14.616","7.241","0.896"],["3.958","5.701","0.955"],["2.768","8.971","0.669"],["9.051","9.710","0.171"],["14.046","4.182","0.536"],["12.295","1.429","0.962"],["4.417","8.167","0.113"],["0.492","4.771","0.785"],["7.632","2.605","0.645"],["14.242","5.042","0.368"]]
+        }
+    ]
+}
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+</script>
+
       
     </div>
     
@@ -538,8 +548,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/12/22/《精英日课》第二季 - 偶然中的必然/" rel="next" title="《精英日课》第二季 - 偶然中的必然">
-                <i class="fa fa-chevron-left"></i> 《精英日课》第二季 - 偶然中的必然
+              <a href="/2019/01/22/2018年终总结/" rel="next" title="2018年终总结">
+                <i class="fa fa-chevron-left"></i> 2018年终总结
               </a>
             
           </div>
@@ -614,7 +624,7 @@
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">18</span>
+                  <span class="site-state-item-count">19</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -636,7 +646,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">26</span>
+                  <span class="site-state-item-count">27</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -701,7 +711,7 @@
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">68.3k</span>
+    <span title="Site words total count">82.9k</span>
   
 </div>
 
@@ -720,7 +730,7 @@
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共68.3k字</span>
+  <span class="post-count">博客全站共82.9k字</span>
 </div>
 
         
