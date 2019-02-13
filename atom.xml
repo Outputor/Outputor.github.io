@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-13T05:40:53.737Z</updated>
+  <updated>2019-02-13T08:32:11.124Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/01/22/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>http://yoursite.com/2019/01/22/2018年终总结/</id>
     <published>2019-01-21T16:00:00.000Z</published>
-    <updated>2019-02-13T05:40:53.737Z</updated>
+    <updated>2019-02-13T08:32:11.124Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;h1 id=&quot;2018总时间&quot;&gt;&lt;a href=&quot;#2018总时间&quot; class=&quot;headerlink&quot; title=&quot;2018总时间&quot;&gt;&lt;/a&gt;2018总时间&lt;/h1&gt;&lt;div id=&quot;echarts4590&quot; style=&quot;width: 80%;height:
+          &lt;p&gt;写在最前：&lt;br&gt;2018年的总结是19年1月份已经完成了，当时的图表用的Pyechart做的，是一个一个的小网页，当时是截图做的，效果很差。一直想花点时间把图表的动态效果实现了。年后，没有重要事情的时候，就用Hexo和Github搭了一个自己的博客，用Echarts把所有
         
       
     
