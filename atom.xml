@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.outputor.top/"/>
-  <updated>2019-02-26T13:03:44.108Z</updated>
+  <updated>2019-02-26T14:02:47.762Z</updated>
   <id>http://www.outputor.top/</id>
   
   <author>
@@ -21,17 +21,11 @@
     <link href="http://www.outputor.top/2019/02/26/2019Flag/"/>
     <id>http://www.outputor.top/2019/02/26/2019Flag/</id>
     <published>2019-02-26T12:32:46.000Z</published>
-    <updated>2019-02-26T13:03:44.108Z</updated>
+    <updated>2019-02-26T14:02:47.762Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;div style=&quot;display:
-        
-      
+      &lt;p&gt;这里是文章摘要部分&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -55,17 +49,11 @@
     <link href="http://www.outputor.top/2019/02/13/%E5%B0%8F%E7%99%BD%E5%A6%82%E4%BD%95%E5%9C%A8hexo%E4%B8%AD%E5%AE%9E%E7%8E%B0Echarts/"/>
     <id>http://www.outputor.top/2019/02/13/小白如何在hexo中实现Echarts/</id>
     <published>2019-02-12T16:00:00.000Z</published>
-    <updated>2019-02-13T12:14:14.049Z</updated>
+    <updated>2019-02-26T14:15:03.701Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;p&gt;看一个前端和后商的非IT小白，如何学习掌握一种类似于编程的画图方法&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -85,17 +73,11 @@
     <link href="http://www.outputor.top/2019/01/22/2018%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/"/>
     <id>http://www.outputor.top/2019/01/22/2018年终总结/</id>
     <published>2019-01-21T16:00:00.000Z</published>
-    <updated>2019-02-26T13:03:46.736Z</updated>
+    <updated>2019-02-26T14:09:03.817Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;写在最前：&lt;br&gt;2018年的总结是19年1月份已经完成了，图表是用的Pyechart做的，是一个一个的小网页，当时是截图做的Pdf，效果很差。一直想花点时间把图表的动态效果实现了。年后，没有重要事情的时候，就用Hexo和Github搭了一个自己的博客，用Echarts把所
-        
-      
+      &lt;p&gt;2018已经过去，悟已往之不谏，知来者之可追。2019年初抽出45个小时，对2018年做了总结。泪流满面&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -119,17 +101,11 @@
     <link href="http://www.outputor.top/2018/12/22/%E3%80%8A%E7%B2%BE%E8%8B%B1%E6%97%A5%E8%AF%BE%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%20-%20%E5%81%B6%E7%84%B6%E4%B8%AD%E7%9A%84%E5%BF%85%E7%84%B6/"/>
     <id>http://www.outputor.top/2018/12/22/《精英日课》第二季 - 偶然中的必然/</id>
     <published>2018-12-21T16:00:00.000Z</published>
-    <updated>2019-02-13T11:50:13.337Z</updated>
+    <updated>2019-02-26T14:16:06.368Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;思考题：&quot;&gt;&lt;a href=&quot;#思考题：&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;p&gt;看似偶然，实则必然&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -147,17 +123,11 @@
     <link href="http://www.outputor.top/2018/12/14/%E3%80%8A%E7%B2%BE%E8%8B%B1%E6%97%A5%E8%AF%BE%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%20-%20%E9%AB%98%E6%89%8B%E7%9A%84%E5%BF%83%E6%B3%95/"/>
     <id>http://www.outputor.top/2018/12/14/《精英日课》第二季 - 高手的心法/</id>
     <published>2018-12-13T16:00:00.000Z</published>
-    <updated>2019-02-13T11:50:13.337Z</updated>
+    <updated>2019-02-26T14:16:06.471Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;客观题和主观题&quot;&gt;&lt;a href=&quot;#客观题和主观题&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;p&gt;高手是怎样炼成的&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -175,17 +145,11 @@
     <link href="http://www.outputor.top/2018/12/02/%E3%80%8A%E5%8E%9F%E5%88%99%E3%80%8B/"/>
     <id>http://www.outputor.top/2018/12/02/《原则》/</id>
     <published>2018-12-01T16:00:00.000Z</published>
-    <updated>2019-02-11T23:16:26.285Z</updated>
+    <updated>2019-02-26T14:16:06.369Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;《原则》一书是华尔街一家传奇对冲基金公司桥水公司创始人瑞·达里奥关于生活的工作的原则的总结。达里奥是一个依靠原则行事的人。生活和工作中的所有问题的处理都是依靠原则来做决定的。作者本人及它的公司所取得的巨大成就就是依靠这一套行之有效的原则达到的。&lt;br&gt;本书主要分为三部分,分
-        
-      
+      &lt;p&gt;做一个有原则的人&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -203,17 +167,11 @@
     <link href="http://www.outputor.top/2018/11/08/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%AD%A6%E4%B9%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E5%BA%A6%E8%A1%B0%E5%87%8F%E6%95%88%E5%BA%94/"/>
     <id>http://www.outputor.top/2018/11/08/如何应对学习过程中的热度衰减效应/</id>
     <published>2018-11-07T16:00:00.000Z</published>
-    <updated>2019-02-12T01:07:10.581Z</updated>
+    <updated>2019-02-26T14:13:59.471Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt; 首先声明一下，原创文章，如有雷同，纯属巧合，不侵不删。&lt;/strong&gt;&lt;br&gt;   
-        
-      
+      &lt;p&gt;鸡血不管用，得吃鸡肉才行&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -289,17 +247,11 @@
     <link href="http://www.outputor.top/2018/10/04/Excel%E5%AE%9E%E6%88%98%E6%93%8D%E4%BD%9C%20-%20%E6%88%90%E7%BB%A9%E5%8D%95/"/>
     <id>http://www.outputor.top/2018/10/04/Excel实战操作 - 成绩单/</id>
     <published>2018-10-03T16:00:00.000Z</published>
-    <updated>2019-02-13T11:50:13.337Z</updated>
+    <updated>2019-02-26T14:16:06.369Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;本科期间学习过一段时间Excel，熟悉一些基本函数的使用和操作，已经有好长时间没有用到真正的Excel技能了，平常用Excel写个小公式来计算啥的都太低级了，昨天有幸可以拿到学校的所有研究生的原始成绩，参与进行其加权成绩的计算，这个成绩用以申请奖学金，算是进行了一次实战操作吧。收获颇丰。现总结如下&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -315,17 +267,11 @@
     <link href="http://www.outputor.top/2018/09/02/%E6%8B%BF%E4%BB%80%E4%B9%88%E6%8B%AF%E6%95%91%E4%BD%A0%EF%BC%8C%E6%88%91%E7%9A%84%E5%A4%B4%E5%8F%91/"/>
     <id>http://www.outputor.top/2018/09/02/拿什么拯救你，我的头发/</id>
     <published>2018-09-01T16:00:00.000Z</published>
-    <updated>2019-02-11T23:01:50.166Z</updated>
+    <updated>2019-02-26T14:16:08.113Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;前段时间去跟着老师去开会，住的一个超帅的大House，里面有很大的镜子，然后。。。在开会第一天出门的时候，当我无意间把头发撩起来看看自己帅气的脸庞的时候。。。&lt;br&gt;我突然慌了，比梅西还要慌。&lt;br&gt;我靠，我的头发呢。我记得我的头发前面是平的，怎么现在有了美人尖了。忽然间就
-        
-      
+      &lt;p&gt;早睡早起比啥都好。。。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -341,17 +287,11 @@
     <link href="http://www.outputor.top/2018/07/17/%E5%85%B3%E4%BA%8E%E8%80%90%E5%BF%83%E4%BB%A5%E5%8F%8A%E5%85%B6%E5%AE%83%E6%80%A7%E6%A0%BC%E7%89%B9%E5%BE%81/"/>
     <id>http://www.outputor.top/2018/07/17/关于耐心以及其它性格特征/</id>
     <published>2018-07-16T16:00:00.000Z</published>
-    <updated>2019-02-11T23:16:26.285Z</updated>
+    <updated>2019-02-26T14:16:06.437Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;昨天一个朋友打电话告诉我说他把做事情不成功的原因归结为没有耐心，他关于没有耐心的描述是这样的&lt;br&gt;&lt;em&gt;一直想往前面冲，想快点把一本书学完，就好像已经掌握了这本书。&lt;/em&gt;&lt;br&gt;&lt;strong&gt;我并不把它归结为没有耐心&lt;/strong&gt;，首先是因为有没有耐心这个是不
-        
-      
+      &lt;p&gt;思考，快与慢。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -371,17 +311,11 @@
     <link href="http://www.outputor.top/2018/07/14/%E4%BB%8E%E7%AE%97%E5%8D%A6%E5%85%88%E7%94%9F%E5%88%B0%E4%B8%89%E6%80%9D%E8%80%8C%E8%A1%8C/"/>
     <id>http://www.outputor.top/2018/07/14/从算卦先生到三思而行/</id>
     <published>2018-07-13T16:00:00.000Z</published>
-    <updated>2019-02-11T23:16:26.286Z</updated>
+    <updated>2019-02-26T14:11:28.418Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;去年找了一个算命先生给我算了一下运势，说我会找两个工作，一个不大满意，另一个会比较满意。然后，真的被说中了。去年前后一共做了两份工作，后一份明显比前一份要好一些。&lt;br&gt;请教别人这个事情靠谱不靠谱，是真的准还是运气比较好，众说不一。有些时候算命先生说话非常的含糊，从来没有说
-        
-      
+      &lt;p&gt;思考使我快乐&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -399,17 +333,11 @@
     <link href="http://www.outputor.top/2018/06/09/%E4%BB%8E%E6%9F%B3%E6%AF%94%E6%AD%87%E5%A4%AB%E5%88%B0%E6%97%B6%E5%85%89%E4%BC%BC%E9%87%91/"/>
     <id>http://www.outputor.top/2018/06/09/从柳比歇夫到时光似金/</id>
     <published>2018-06-08T16:00:00.000Z</published>
-    <updated>2019-02-13T11:50:13.337Z</updated>
+    <updated>2019-02-26T14:11:06.648Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;摘要&quot;&gt;&lt;a href=&quot;#摘要&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;p&gt;本文主要围绕一款时间管理软件时光似金（TimeGolden）来对其基本功能，设计理念，使用方法等进行说明与总结。一方面深化作者对于时间管理以及时光似金这个软件的认为，另一方面希望可以帮助读者建立时间管理的观念。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -431,17 +359,11 @@
     <link href="http://www.outputor.top/2018/05/05/%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%88%AB%E4%BA%BA/"/>
     <id>http://www.outputor.top/2018/05/05/影响力如何影响别人/</id>
     <published>2018-05-04T16:00:00.000Z</published>
-    <updated>2019-02-13T11:46:33.766Z</updated>
+    <updated>2019-02-26T14:15:21.953Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;《影响力》作者罗伯特 · B ·
-        
-      
+      &lt;p&gt;把自己推销出去才是最厉害的本事&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -457,17 +379,11 @@
     <link href="http://www.outputor.top/2018/03/29/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B/"/>
     <id>http://www.outputor.top/2018/03/29/好好学习值得一看/</id>
     <published>2018-03-28T16:00:00.000Z</published>
-    <updated>2019-02-12T01:19:07.074Z</updated>
+    <updated>2019-02-26T14:16:06.369Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;在自序中，作者提到了知识的三个作用，解释问题，解决问题，预测问题&lt;br&gt;然后又提到了是否把外部信息内化成自己的知识的一个评判标准就是是否有把学到的新知识运用起来，有没有为此做出改变。举个最简单的例子，如果你通过看书或者看视频了解到也早上吃早餐的重要性，却还是每天不吃早餐，那
-        
-      
+      &lt;p&gt;这个世界是由那些为数不多的底层的基本知识决定的。&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -512,17 +428,11 @@
     <link href="http://www.outputor.top/2018/01/16/%E5%85%A5%E5%9D%91Markdown/"/>
     <id>http://www.outputor.top/2018/01/16/入坑Markdown/</id>
     <published>2018-01-15T16:00:00.000Z</published>
-    <updated>2019-02-12T01:19:07.074Z</updated>
+    <updated>2019-02-26T14:16:06.470Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;http://opa3m1qai.bkt.clouddn.com/blog/20171117/085327905.png?imageslim&quot;
-        
-      
+      &lt;p&gt;确实挺坑的&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
