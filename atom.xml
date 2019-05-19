@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.outputor.top/"/>
-  <updated>2019-04-07T03:21:44.459Z</updated>
+  <updated>2019-04-07T14:16:36.446Z</updated>
   <id>http://www.outputor.top/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>为什么这么焦虑</title>
+    <link href="http://www.outputor.top/2019/04/07/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E7%84%A6%E8%99%91/"/>
+    <id>http://www.outputor.top/2019/04/07/为什么这么焦虑/</id>
+    <published>2019-04-07T13:28:21.000Z</published>
+    <updated>2019-04-07T14:16:36.446Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;无知者无畏，无能者无惧。而我，既无知，又无能，却不能做到无所畏惧。&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="http://www.outputor.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="学习成长" scheme="http://www.outputor.top/tags/%E5%AD%A6%E4%B9%A0%E6%88%90%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2019Flag</title>
     <link href="http://www.outputor.top/2019/02/26/2019Flag/"/>
     <id>http://www.outputor.top/2019/02/26/2019Flag/</id>
     <published>2019-02-26T12:32:46.000Z</published>
-    <updated>2019-04-07T03:21:44.459Z</updated>
+    <updated>2019-05-05T05:47:18.942Z</updated>
     
     <summary type="html">
     
@@ -390,9 +410,9 @@
       <category term="读书笔记" scheme="http://www.outputor.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="个人管理" scheme="http://www.outputor.top/tags/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86/"/>
-    
       <category term="学习成长" scheme="http://www.outputor.top/tags/%E5%AD%A6%E4%B9%A0%E6%88%90%E9%95%BF/"/>
+    
+      <category term="个人管理" scheme="http://www.outputor.top/tags/%E4%B8%AA%E4%BA%BA%E7%AE%A1%E7%90%86/"/>
     
   </entry>
   
@@ -470,36 +490,6 @@
     
     
       <category term="茶花女" scheme="http://www.outputor.top/tags/%E8%8C%B6%E8%8A%B1%E5%A5%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>提高效率软件</title>
-    <link href="http://www.outputor.top/2017/12/05/%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E8%BD%AF%E4%BB%B6/"/>
-    <id>http://www.outputor.top/2017/12/05/提高效率软件/</id>
-    <published>2017-12-04T16:00:00.000Z</published>
-    <updated>2019-02-11T23:01:50.166Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;strong&gt;写在最前&lt;/strong&gt;&lt;br&gt;作为一个爱折腾软件的boy，经常在某种奇葩需求的驱使下，去寻找某些奇葩的软件，也对生产力这个东西有点了小小的想法。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;自己用着舒服的就是最好的&lt;/strong&gt;，不要轻易听信各种大神的
-        
-      
-    
-    </summary>
-    
-      <category term="技能Get" scheme="http://www.outputor.top/categories/%E6%8A%80%E8%83%BDGet/"/>
-    
-    
-      <category term="电脑软件" scheme="http://www.outputor.top/tags/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/"/>
-    
-      <category term="效率" scheme="http://www.outputor.top/tags/%E6%95%88%E7%8E%87/"/>
     
   </entry>
   
