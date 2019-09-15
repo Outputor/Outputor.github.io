@@ -439,11 +439,11 @@
 <h1 id="初识Echarts"><a href="#初识Echarts" class="headerlink" title="初识Echarts"></a>初识Echarts</h1><p>按照我的理解，<a href="https://www.echartsjs.com/index.html" target="_blank" rel="noopener">Echarts</a>是百度负责开发和维护的用于绘制网页中图表的JavaScript脚本和组件。它是一个免费的开源项目。只要有一些网页开发基础的人很快就能熟悉和上手Echarts。</p>
 <h1 id="小白如何在Hexo中使用Echarts"><a href="#小白如何在Hexo中使用Echarts" class="headerlink" title="小白如何在Hexo中使用Echarts"></a>小白如何在Hexo中使用Echarts</h1><p>我的目的很简单，是从我的博客中实现Echarts。而我的博客是用Hexo搭建的。因此问题就是如何在Hexo中实现Echarts。<br>通过查阅网上相关资料，参阅<a href="https://kchen.cc/2016/11/05/echarts-in-hexo/#fnref:1" target="_blank" rel="noopener">KChen</a>的博客以及KChen提供的插件，可以实现简单的KChen中所使用的demo柱状图。可是下一步，我要实现我自己的表格就犯了难。现在的情况是有猫了，让我们画个豹子，这就有点难度了。<br>我就仔细研究了代码部分<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% echarts <span class="number">400</span> <span class="string">'85%'</span> %&#125;</span><br><span class="line">\\TODO option goes here</span><br><span class="line">&#123;% endecharts %&#125;</span><br></pre></td></tr></table></figure></p>
 <p>代码第一行和第三行说明是对Echarts插件的引用，大体意思是有了这两行之后我的电脑就把这两行里面的内容用那个插件里的脚本进行解读，如果正好可以编译成一个图表，那就绘制出一个图表，如果出错，那就什么都不显示。<br>它使用的是的一个高为400的容器（所谓的容器就是网页上一块用来展示图表的面各），宽为高的85%。而第二行的内容则是我们自己编写的图表的代码了。<br>既然是这样，我就在官方示例里随便copy些代码放到里面，看看能不能出来图片不就行了。果然，可以出来一些简单的折线图。<br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">&#123;% echarts <span class="number">400</span> <span class="string">'85%'</span> %&#125;</span><br><span class="line"> &#123;</span><br><span class="line">   xAxis: &#123;</span><br><span class="line">        type: <span class="string">'category'</span>,</span><br><span class="line">        data: [<span class="string">'Mon'</span>, <span class="string">'Tue'</span>, <span class="string">'Wed'</span>, <span class="string">'Thu'</span>, <span class="string">'Fri'</span>, <span class="string">'Sat'</span>, <span class="string">'Sun'</span>]</span><br><span class="line">    &#125;,</span><br><span class="line">    yAxis: &#123;</span><br><span class="line">        type: <span class="string">'value'</span></span><br><span class="line">    &#125;,</span><br><span class="line">    series: [&#123;</span><br><span class="line">        data: [<span class="number">820</span>, <span class="number">932</span>, <span class="number">901</span>, <span class="number">934</span>, <span class="number">1290</span>, <span class="number">1330</span>, <span class="number">1320</span>],</span><br><span class="line">        type: <span class="string">'line'</span></span><br><span class="line">    &#125;]  </span><br><span class="line"> &#125;</span><br><span class="line">    &#123;% endecharts %&#125;</span><br></pre></td></tr></table></figure></p>
-<div id="echarts4214" style="width: 85%;height: 400px;margin: 0 auto"></div>
+<div id="echarts1847" style="width: 85%;height: 400px;margin: 0 auto"></div>
 <script src="https://cdn.bootcss.com/echarts/3.8.0/echarts.common.min.js"></script>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts4214'));
+        var myChart = echarts.init(document.getElementById('echarts1847'));
         // 指定图表的配置项和数据
         var option = {
   xAxis: {
@@ -704,7 +704,7 @@
     
       <span class="post-meta-item-text">Site words total count&#58;</span>
     
-    <span title="Site words total count">102.7k</span>
+    <span title="Site words total count">102.8k</span>
   
 </div>
 
@@ -723,7 +723,7 @@
 
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共102.7k字</span>
+  <span class="post-count">博客全站共102.8k字</span>
 </div>
 
         
